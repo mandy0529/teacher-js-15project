@@ -44,7 +44,7 @@ function addItem(e) {
               <button type="button" class="delete-btn">
                 <i class="fas fa-trash"></i>
               </button>
-            </div>
+            </div>z
           `;
     // add event listeners to both buttons;
     const deleteBtn = element.querySelector('.delete-btn');
